@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AeroG81
+- 👋 Hi, I’m Wei Hung
 - 👀 I’m interested in creating something
 - 🌱 I’m currently a Software Engineering Student 
 
