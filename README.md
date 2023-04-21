@@ -10,6 +10,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AeroG81&theme=tokyonight&border_radius=4)](https://git.io/streak-stats)
 [![AeroG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AeroG81&theme=tokyonight)](https://github.com/AeroG81/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AeroG81&layout=compact&theme=tokyonight)](https://github.com/AeroG81/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=AeroG&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
