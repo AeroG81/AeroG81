@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Wei Hung
 - 👀 I’m interested in creating something
-- 🌱 I’m currently a Software Engineering Student 
+- 🌱 I’m currently a Fresh Graduate Software Engineer
 
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,docker,github,postman,vscode,androidstudio&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,figma,blender,docker,github,postman,docker,firebase,vscode,gcp,mongodb,gomandroidstudio&theme=dark)](https://skillicons.dev)
 
 [![My Language](https://skillicons.dev/icons?i=java,nodejs,c,html,vue,js&theme=dark)](https://skillicons.dev)
 [![My Database](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
